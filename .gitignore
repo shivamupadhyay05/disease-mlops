@@ -1,5 +1,4 @@
 venv/
 prenv/
 __pycache__/
-models/*.pkl
 .DS_Store
